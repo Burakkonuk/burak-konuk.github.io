@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+.intro{
+    
+    background-color: rgb(14, 11, 11);
+    background-repeat: no-repeat;
+    background-size: 1920px;
+    background-position-x: -200px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background-image: url("../../../introbg.jpg");
+    .left{
+        display:flex;
+        flex-direction: column;
+        flex: 5;
+        align-items: center;
+        justify-content: center;
+        .imgContainer{
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+            flex-direction: column;
+            padding-top: 40px;
+            img{
+                margin-top: 40px;
+                height: 400px;
+                width: 300px;
+            }
+            h3{
+                height: 100px;
+                width: 250px;
+                font-size: 30px;
+                text-align: center;
+                color:white;
+                
+            }
+            .quoteContainer{
+                    height: 300px;
+                    width: 500px;
+                h3{
+                    height: 100px;
+                    width: 500px;
+                    overflow: hidden;
+                    font-family: 'Raleway', sans-serif;
+                    font-size: 20px;
+                    
+                }
+            }
+        }
+
+    }
+
+    .right{
+        border-left: 8px double darkgrey;
+        
+        //background-image: url("../../../introbg.jpg");
+        background-size: 1200px;
+        background-position-x: center;
+        flex: 5;
+        display: flex;  
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        transition: all 1s ease;
+        flex-direction: column;
+
+        
+        h1{
+            width: 6em;
+            height: 6em;
+            overflow: hidden;
+            transition: all 1s ease;
+            text-decoration: none;
+            color: white;
+            padding-left: 18px;
+
+            &:hover{
+                text-shadow: 5px 3px 3px rgba(7, 0, 0, 0.479);  
+                color: black;
+                size: 100px;
+            }
+        }
+
+        h2{
+
+            height: 100px;
+            width: 250px;   
+            font-family: 'Raleway', sans-serif;
+            padding-top: 10px;
+            padding-left: 20px;
+            color: black;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            a{
+                transition: all 0.5s ease;
+                text-decoration: none;
+                height: 100px;
+                width: 250px; 
+                color: white;
+                font-family: 'Raleway', sans-serif;
+                padding-left: 5px;
+                text-align: center;
+                align-items: center;
+                
+                &:hover{
+                text-shadow: 5px 3px 3px rgba(224, 205, 205, 0.479);  
+                color: black;
+                }
+            }
+        }
+    }
+    
+    
+
+    
+}   
