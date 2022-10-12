@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/burakkkonuk/static/css/main.3d3a7786.css",
+    "main.js": "/burakkkonuk/static/js/main.8f84ead6.js",
+    "static/media/introbg.jpg": "/burakkkonuk/static/media/introbg.baa370592999bfc50dce.jpg",
+    "static/media/bg.jpg": "/burakkkonuk/static/media/bg.65dce3eedbc6a2ba5649.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/burakkkonuk/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/circlesLogoAsp.png": "/burakkkonuk/static/media/circlesLogoAsp.44a2c21fe6b3786ff029.png",
+    "static/media/fontawesome-webfont.eot": "/burakkkonuk/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/burakkkonuk/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/burakkkonuk/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/burakkkonuk/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/circlesLogoOracle.png": "/burakkkonuk/static/media/circlesLogoOracle.b5d6ee07367c502023dc.png",
+    "static/media/circlesLogo.png": "/burakkkonuk/static/media/circlesLogo.79e45a425a79b81e53a8.png",
+    "static/media/circlesLogoJava.png": "/burakkkonuk/static/media/circlesLogoJava.8f80aa21817d221ea8c8.png",
+    "static/media/circlesLogoCss.png": "/burakkkonuk/static/media/circlesLogoCss.efa77470e88808838805.png",
+    "static/media/CarRental.png": "/burakkkonuk/static/media/CarRental.b89725695d88b29c5599.png",
+    "index.html": "/burakkkonuk/index.html",
+    "main.3d3a7786.css.map": "/burakkkonuk/static/css/main.3d3a7786.css.map",
+    "main.8f84ead6.js.map": "/burakkkonuk/static/js/main.8f84ead6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3a7786.css",
+    "static/js/main.8f84ead6.js"
+  ]
+}
