@@ -20,10 +20,10 @@ export default function Works({projectOpen,setProjectOpen}) {
                 
             </div>
           </div>
-        <div className='work2'>aaaaaaaaaaa</div>
+        <div className='work2'>Will be added soon.</div>
         
-        <div className='work3'>aaaaaaaaaaa</div>
-        <div className='work4'>aaaaaaaaaaa</div></div>
+        <div className='work3'>Will be added soon.</div>
+        <div className='work4'>Will be added soon.</div></div>
         
     </div>
 

@@ -11,10 +11,11 @@ export default function Portfolio() {
             <h3>About Me</h3>
             <div className="quoteContainer1">
               <h3>Hi, my name is Burak and I am a 4th grade student 
-        at Dokuz Eylul University Computer Engineering Program.
+        at Dokuz Eylul University Computer Engineering Program and currently working
+        at the <a className='link' href='https://www.besttransformer.com/'>BEST Transformer</a> as a 
+        Oracle Apps, SQL and PL/SQL developer.
         I love learning all the time, good at teamwork and working on
-        Java, Java Script, React, ASP.NET Core MVC. Trying hard to be
-        a full stack Developer. </h3>
+        Java, Java Script, React, ASP.NET Core MVC. . </h3>
         
             </div>
             <div className="iconContainer">

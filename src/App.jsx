@@ -24,7 +24,6 @@ function App() {
         <Portfolio/>
         <Works projectOpen={projectOpen} setProjectOpen={setProjectOpen}/>
         <Project projectOpen={projectOpen} setProjectOpen={setProjectOpen}/>
-        <Testimonials/>
         <Contact/>
 
       </div>

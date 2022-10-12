@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <div className="contact" id="contact">
         <div className="wrapper">
-          <FontAwesomeIcon icon={faTwitter}/>
+         
         </div>
     </div>
   )
