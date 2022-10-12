@@ -15,7 +15,7 @@ export default function Portfolio() {
         at the <a className='link' href='https://www.besttransformer.com/'>BEST Transformer</a> as a 
         Oracle Apps, SQL and PL/SQL developer.
         I love learning all the time, good at teamwork and working on
-        Java, Java Script, React, ASP.NET Core MVC. . </h3>
+        Java, Java Script, React, ASP.NET Core MVC. </h3>
         
             </div>
             <div className="iconContainer">
